@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 100vh;
+}
+.item{
+    background-color: aquamarine;
+    padding: 50px;
+    border: 2px solid black
+}
